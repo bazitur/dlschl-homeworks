@@ -1,3 +1,1 @@
-# dlschl
-
-Website: https://deepmipt.github.io/dlschl/
+# Deep Learning School homework
