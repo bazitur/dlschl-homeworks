@@ -118,3 +118,4 @@ venv.bak/
 
 # End of https://www.gitignore.io/api/python,jupyternotebook
 >>>>>>> 1ced21bd429cd3cfe63e3518af18a08a6d6e3546
+/homeworks/hw05/mnist.npz
