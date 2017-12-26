@@ -2,7 +2,7 @@
 __pycache__
 *.pyc
 .ipynb_checkpoints/
-*.pickle
+*.npz
 =======
 
 # Created by https://www.gitignore.io/api/python,jupyternotebook
