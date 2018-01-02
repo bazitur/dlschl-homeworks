@@ -1,1 +1,2 @@
-## Домашние задания Школы машинного обучения МФТИ [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bazitur/dlschl_homework/master)
+## Домашние задания Школы машинного обучения МФТИ 
+<a href="https://mybinder.org/v2/gh/bazitur/dlschl_homework/master" target="_blank"><img src="https://mybinder.org/badge.svg" alt="launch Binder"></a>
