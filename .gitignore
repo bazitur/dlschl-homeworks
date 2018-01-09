@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 __pycache__
 *.pyc
 .ipynb_checkpoints/
@@ -117,7 +116,7 @@ venv.bak/
 .mypy_cache/
 
 # End of https://www.gitignore.io/api/python,jupyternotebook
->>>>>>> 1ced21bd429cd3cfe63e3518af18a08a6d6e3546
 /homeworks/hw05/mnist.npz
 /homeworks/hw07/data/cifar-10-python.tar.gz
 /homeworks/hw07/data/cifar-10-batches-py/
+/**/data/
